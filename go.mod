@@ -1,1 +1,1 @@
-module gomodex
+module github.com/bengetch/gomodex
